@@ -6,9 +6,14 @@ This repo contain solved dsa questions
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/bhavika465/Leetcode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavika465/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavika465/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/bhavika465/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
